@@ -1,5 +1,7 @@
 # GithubForest
-깃헙 초록색 채우기 스크립트
+ギッホプを緑色に染めましょう。
+Let's dye Github green.
+깃헙을 초록으로 불들이자
 ## quick start
 
 ```
